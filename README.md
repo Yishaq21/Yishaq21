@@ -7,7 +7,9 @@
 ### :bust_in_silhouette: About Me
   
 - :mortar_board: Penetration Testing Student
-- :keyboard: CTF player in [Hack The Box](https://app.hackthebox.com/users/884925)
+- :keyboard: CTF player in HTB My profile is[Hack The Box](https://app.hackthebox.com/users/884925)
+- :keyboard: My profile in THM is : [TryHackme](https://tryhackme.com/p/Yiishaq?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=7785f81ded58&utm_source=copy&share_date=2026-11-19&sharerId=654e5c3b5c5334df661e0a60)
+- https://tryhackme.com/p/Yiishaq?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=7785f81ded58&utm_source=copy&share_date=2026-11-19&sharerId=654e5c3b5c5334df661e0a60
 - :pencil: I regularly write articles on [https://yishaq21.github.io/](https://yishaq21.github.io/)
 
 <h3 align="left">:wrench: Languages and Tools</h3>
