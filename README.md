@@ -7,7 +7,7 @@
 ### :bust_in_silhouette: About Me
   
 - :mortar_board: Penetration Testing Student
-- :keyboard: CTF player in [Hack The Box](https://app.hackthebox.com/profile/884925)
+- :keyboard: CTF player in [Hack The Box]([https://app.hackthebox.com/profile/884925](https://app.hackthebox.com/users/884925))
 - :pencil: I regularly write articles on [https://yishaq21.github.io/](https://yishaq21.github.io/)
 
 <h3 align="left">:wrench: Languages and Tools</h3>
